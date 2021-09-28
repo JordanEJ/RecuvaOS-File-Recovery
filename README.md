@@ -1,5 +1,5 @@
 # RecuvaOS-File-Recovery
-A bootable WinPE image with Recuva file recovery software installed. Can be used to recover files from formatted drives.
+A bootable WinPE image with Recuva file recovery software installed. Can be used to recover files from formatted drives. THis was made with the official WinPE image and edited with NTLite. This will only work with X64 architecture. I have been working on a X86 version but there are problems with "Missing BOOTMGR"
 
 
 ## Instructions:
@@ -18,3 +18,8 @@ A bootable WinPE image with Recuva file recovery software installed. Can be used
 
 
 ## Usage:
+To use this drive you will need to shutdown your computer and boot from it. To do this you will need to figure out what key you need to press to get into your boot selection menu or BIOS. (Usualy the key will be either F2, F10, or F12 But you may have to look up your computers make to find out the key) You will need to select the USB as a boot drive. Once it is booted in you should be able to scan for files and recover them to abother drive.
+
+
+## Conclusion:
+If you have any questions feel free to ask. Any suggestions? Send them through.

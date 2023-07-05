@@ -24,5 +24,3 @@ To use this drive you will need to shutdown your computer and boot from it. To d
 ## Conclusion:
 If you have any questions feel free to ask. Any suggestions? Send them through.
 
-<h2>Support development ❤️</h2>
-<a href="https://www.buymeacoffee.com/jordanej20o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
